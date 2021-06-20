@@ -2,10 +2,14 @@
 
 ## 개발 사항
 #####  프론트 엔드 : React
+  - React hook을 이용하여 SPA 개발
+  - axios를 이용하여 Api와 통신
+  - React router dom을 이용하여 라우팅
+  - 핸드폰 번호 중복 처리와 쿠폰 중복 처리
 #####  서버 : Spring-boot
 #####  데이터베이스 : Mysql
 
-
+<hr>
 
 
 핸드폰 번호를 입력하여 쿠폰이 생성이 성공한 페이지입니다.
